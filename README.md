@@ -18,5 +18,4 @@ CLI/UX design (yes, even terminal apps deserve good UX!)
 🚀 What's next:
 I'm planning to extend this into a Vigenère cipher, add a brute-force "codebreaker" mode, and eventually wrap it in a GUI or web interface — because cryptography is way more fun when you can see it in action. Sometimes the best way to understand complex security concepts is to build the simple version first. This project was a great reminder that fundamentals matter — even in an age of AES-256 and end-to-end encryption, understanding why ciphers work is what makes you a better engineer.
 💻 Built with: Java, Scanner, ANSI terminal styling
-📂 Code available on request / GitHub link below 👇
-#Java #Cybersecurity #Encryption #SoftwareDevelopment #Programming #CodingProjects #DataProtection #LearningInPublic #100DaysOfCode
+
